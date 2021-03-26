@@ -1,5 +1,6 @@
 # Project---Loan-Prediction
 **Introduction**
+
 Predicting the outcome of a loan is a recurrent, crucial and difficult issue in insurance and banking. The objective of our project is to predict whether a loan will default or not based on objective financial data only.
 This is a Python-based Project. This project was created via Spyder 3.3.5. IDE (Integrated Development Environment) using Python 3.7.3 and Ipython Console 7.4.0. The final outcome of this project is saved in a Jupyter Notebook v7.8.0. The libraries of python used in this project are:
 1. NumPy
@@ -17,9 +18,11 @@ Accuracy is not well-suited for our problem. The unbalance of the classes would 
 Loan Prediction
 
 **Problem**
+
 A Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a data set.
 
 **Data**
+
 1. Variable Description
 2. Loan ID - Unique Loan ID
 3. Gender - Male/ Female
